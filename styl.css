@@ -37,7 +37,8 @@ input{
     height: 350px;
     background-color: rgb(51, 131, 171);
     border: none;
-    border-radius: 15px;    
+    border-radius: 15px;   
+    overflow-y: scroll; 
 }
 .infoDiv{
     display: flex;
